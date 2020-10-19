@@ -1,6 +1,6 @@
 # CSE-214
 
-## Problem Set 1
+## [Problem Set 1](https://github.com/1915002521/CSE-214/tree/main/Problem%20Set%201)
 * Array Declaration.
 * Array Initialization.
 * Array Insert From User.
@@ -8,7 +8,7 @@
 * Printing Array Elements With Loop (For,While).
 * Printing Array Elements in differents types(newline,space,comma,reverse)
 
-## Problem Set 2
+## [Problem Set 2](https://github.com/1915002521/CSE-214/tree/main/Problem%20Set%202)
 * Array Declaration.
 * Variable Declaration.
 * Inserting Value in Particular Index (Fixed Index or Index given by User) and Shift Right.
