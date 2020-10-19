@@ -1,8 +1,9 @@
 # Problem Set 1
 
-* Array Declare
-
-'''
-int a[100]; //here an integer type array a is declared
-'''
+* Array Declaration.
+* Array Initialization.
+* Array Insert From User.
+* Array Insert From User Until End of File or Until Particular Value.
+* Printing Array Elements With Loop (For,While).
+* Printing Array Elements in differents types(newline,space,comma,reverse)
 
