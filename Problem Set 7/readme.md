@@ -76,7 +76,7 @@ return 0;
 }
 ```
 
-## [6.Define a function to display the nth element of the Linked List.Take input 'n' from user. (Check index out of range)[let, the first element n=1)](https://github.com/1915002521/CSE-214/blob/main/Problem%20Set%207/6.c)
+## [6.Define a function to display the nth element of the Linked List.Take input 'n' from user. (Check index out of range)(let, the first element n=1)](https://github.com/1915002521/CSE-214/blob/main/Problem%20Set%207/6.c)
 
 ```
 void print_list_n(node *temp, int pos)
