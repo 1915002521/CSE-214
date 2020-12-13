@@ -1,4 +1,4 @@
-/* Implement a “Clear” function to delete the all the element of the Linked List.
+/*7.Implement a â€œClearâ€ function to delete the all the element of the Linked List.
 
 Md Naimur Rahman Soykot
 Id: 1915002521
