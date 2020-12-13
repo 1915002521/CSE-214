@@ -1,4 +1,4 @@
-/*4.Define a "Front" function to display the first element of the Linked List.v
+/*4.Define a "Front" function to display the first element of the Linked List.
 
 Md Naimur Rahman Soykot
 Id: 1915002521
