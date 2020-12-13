@@ -1,6 +1,6 @@
 # Problem Set 6
 
-## 1.Define a Structure for Linked List Node, Declare three variable,Assign value and next address in those variable. Print the variable address,value and next variable address.(Don't use any function, 'typedef' keyword and dynamic memory allocation)
+## [1.Define a Structure for Linked List Node, Declare three variable,Assign value and next address in those variable. Print the variable address,value and next variable address.(Don't use any function, 'typedef' keyword and dynamic memory allocation)](https://github.com/1915002521/CSE-214/blob/main/Problem%20Set%206/1.c)
 
 ```
 struct Node
@@ -32,7 +32,7 @@ int main()
 
 }
 ```
-## 2.Define a function to print single node(Address, value and next variable) of the Linked List and do the same as problem 1.(Use 'typedef' keyword.Don't use DMA
+## [2.Define a function to print single node(Address, value and next variable) of the Linked List and do the same as problem 1.(Use 'typedef' keyword.Don't use DMA)](https://github.com/1915002521/CSE-214/blob/main/Problem%20Set%206/2.c)
 
 ```
 void print(node temp)
@@ -41,7 +41,7 @@ void print(node temp)
 }
 ```
 
-## 3.Define a function to display(only value for each node) the complete Linked List and do the same as problem 1.(Don't use DMA.)
+## [3.Define a function to display(only value for each node) the complete Linked List and do the same as problem 1.(Don't use DMA.)](https://github.com/1915002521/CSE-214/blob/main/Problem%20Set%206/3.c)
 
 ```
 void print(node *temp)
@@ -54,7 +54,7 @@ void print(node *temp)
 }
 ```
 
-## 4.Use Dynamic memory allocation to create three elements of theLinked List and display(only value) the complete Linked List using a function.(Check Empty List)
+## [4.Use Dynamic memory allocation to create three elements of theLinked List and display(only value) the complete Linked List using a function.(Check Empty List)](https://github.com/1915002521/CSE-214/blob/main/Problem%20Set%206/4.c)
 
 ```
    a = (node*) malloc(sizeof(node));
@@ -78,7 +78,7 @@ void print(node *temp)
    empty_list(head);
 ```
 
-## 5.Define a function to display the complete Linked List with a recursive function using problem 4
+## [5.Define a function to display the complete Linked List with a recursive function using problem 4](https://github.com/1915002521/CSE-214/blob/main/Problem%20Set%206/5.c)
 
 ```
 void print_list_recursive(node *temp)
@@ -101,7 +101,7 @@ void print_list_recursive(node *temp)
 }
 ```
 
-## 6.Define a function to display the complete Linked List in reverse order with a recursive function using problem 4
+## [6.Define a function to display the complete Linked List in reverse order with a recursive function using problem 4](https://github.com/1915002521/CSE-214/blob/main/Problem%20Set%206/6.c)
 
 ```
 void reversed_list(node *temp)
