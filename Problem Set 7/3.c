@@ -15,20 +15,20 @@ node* next;
 };
 node* create_list();
 void print_list(node* head);
-int size_of(node* list);
+int size(node* list);
 int main()
 {
     node* head;
     head = NULL;
     head = create_list();
     print_list(head);
-    printf("\nSize of linked list : %d",size_of(head));
+    printf("\nSize of linked list : %d",size(head));
 
 
-        return 0;
+    return 0;
 }
-//function to find the size of list.
-int size_of(node* list){
+
+int size(node* list){
 
     int count = 0;
     while(list!=NULL){
