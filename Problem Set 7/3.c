@@ -1,6 +1,6 @@
 /*3.Define a "size" function to find the size of the Linked list.
 
-Md Naimur Rahman Soykotv
+Md Naimur Rahman Soykot
 Id: 1915002521
 */
 
